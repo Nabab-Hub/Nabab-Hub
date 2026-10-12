@@ -140,10 +140,132 @@ I love architecting end-to-end intelligent systems — from training real-time C
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<!-- 🛠️ Tech Stack & Skills -->
+<!-- </> Languages, Tools and Technologies (Categorized Skill Icons Table) -->
 <div align="center">
-  <h2>🛠️ Tech Stack &amp; Weapons of Choice</h2>
-  <p>Here are the technologies, frameworks, and tools I use to build scalable products:</p>
+  <h2>&lt;/&gt; Languages, Tools and Technologies</h2>
+
+  <table align="center">
+    <tr>
+      <td align="left"><b>Programming Languages</b></td>
+      <td align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=c,cpp,java,py" alt="Programming Languages" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Frontend Development</b></td>
+      <td align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,vite" alt="Frontend Development" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Backend Development</b></td>
+      <td align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,ts,nextjs,react,rust" alt="Backend Development" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>DevOps &amp; Cloud</b></td>
+      <td align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,terraform,jenkins,gitlab" alt="DevOps" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Used Operating Systems</b></td>
+      <td align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=linux,arch,kali,debian,windows" alt="Operating Systems" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Developer Tools</b></td>
+      <td align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer Tools" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<!-- Cute Glowing Animated Divider Line -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</p>
+
+<!-- 🖥️ Technical Skills: Shields.io Badges & Banner -->
+<div align="center">
+  <h2>🖥️ Technical Skills:</h2>
+
+  <table align="center" width="100%">
+    <tr>
+      <td width="50%" align="left" valign="top">
+        <h3>🧕 Programming languages</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing&logoColor=white" alt="Processing" />
+          <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+          <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+          <img src="https://img.shields.io/badge/SVG%2BXML-FFB13B?style=for-the-badge&logo=svg&logoColor=white" alt="SVG+XML" />
+        </p>
+      </td>
+      <td width="50%" align="left" valign="top">
+        <h3>🚀 Some of the Tools I Use</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt" />
+          <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+          <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
+          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+          <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0" />
+          <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
+          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <!-- Technical Circuit Banner -->
+  <p align="center">
+    <img width="100%" src="skills-banner.svg" alt="Technical Skills Banner" />
+  </p>
+</div>
+
+<br />
+
+<!-- Cute Glowing Animated Divider Line -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</p>
+
+<!-- 🛠️ Tech Stack & Weapons of Choice (Single-Row Grid) -->
+<div align="center">
+  <h2>🛠️ Weapons of Choice</h2>
+  <p>Everyday AI/ML, Full Stack frameworks &amp; developer toolings:</p>
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nextjs,react,ts,js,tailwind,nodejs,postgres,mongodb,firebase,docker,git,github,linux,c,cpp,postman,figma&perline=10" alt="Tech Stack Icons" />
@@ -157,26 +279,54 @@ I love architecting end-to-end intelligent systems — from training real-time C
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<!-- 📊 GitHub Analytics & Streak Cards -->
+<!-- 🔮 GitHub Stats & Analytics (Full Dashboard) -->
 <div align="center">
-  <h2>📊 GitHub Activity &amp; Statistics</h2>
+  <h2>🔮 GitHub Stats</h2>
 
+  <!-- Most Used Languages Bar Card -->
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nabab-Hub&show_icons=true&theme=radical&hide_border=false&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&icon_color=FF007A&text_color=E2E8F0&count_private=true" width="48%" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com/?user=Nabab-Hub&theme=radical&border=00F5FF&background=0D1117&ring=00F5FF&fire=FF007A&currStreakLabel=00F5FF" width="48%" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nabab-Hub&theme=radical&hide_border=false&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=E2E8F0" width="75%" alt="Most Used Languages" />
   </p>
 
+  <br />
+
+  <!-- GitHub Streak & Overall Stats Side-by-Side -->
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nabab-Hub&layout=compact&theme=radical&hide_border=false&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=E2E8F0" width="60%" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com/?user=Nabab-Hub&theme=radical&border=00F5FF&background=0D1117&ring=00F5FF&fire=FF007A&currStreakLabel=00F5FF" width="48%" alt="GitHub Streak" />
+    &nbsp;
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nabab-Hub&show_icons=true&theme=radical&hide_border=false&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&icon_color=FF007A&text_color=E2E8F0&count_private=true" width="48%" alt="GitHub Stats" />
+  </p>
+
+  <br />
+
+  <!-- Contributions Mountain Activity Graph -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph-alpha.vercel.app/graph?username=Nabab-Hub&theme=react-dark&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF007A&area=true&hide_border=false&border_color=00F5FF" width="98%" alt="Activity Graph" />
+  </p>
+
+  <br />
+
+  <!-- 4 Summary Donut & Metric Cards (2x2 Grid) -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nabab-Hub&theme=2077" width="48%" alt="Top Languages by Repo" />
+    &nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nabab-Hub&theme=2077" width="48%" alt="Top Languages by Commit" />
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nabab-Hub&theme=2077" width="48%" alt="Stats Card" />
+    &nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nabab-Hub&theme=2077" width="48%" alt="Commits Time Matrix" />
   </p>
 </div>
+
+<br />
 
 <!-- Cute Glowing Animated Divider Line -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<!-- 🐍 Cute Contribution Snake Animation -->
+<!-- 🐍 Contribution Snake Graph Animation -->
 <div align="center">
   <h2>🐍 Contribution Snake Graph</h2>
   <picture>
