@@ -51,8 +51,8 @@ I love architecting end-to-end intelligent systems — from training real-time C
 - 🎬 **YouTube Channel:** [@CodingkaMaza](https://www.youtube.com/@CodingkaMaza) *(Tech tutorials & project breakdowns)*
 - 🔭 **Currently Building:** Real-time Computer Vision Systems & Autonomous AI Voice Agents
 - 🌱 **Exploring & Researching:** Multi-Agent LLM Orchestration & Edge ML Deployment
-- 🎓 **Education:** B.Tech in Computer Science & Engineering
-- 💬 **Ask Me About:** Next.js, FastAPI, YOLOv8, PyTorch, React, Python, Cloud Architectures
+- 🎓 **Education:** BCA (Bachelor of Computer Applications) - Supreme Knowledge Foundation (2022 – 2025)
+- 💬 **Ask Me About:** Next.js, FastAPI, YOLOv8, PyTorch, React, Python, Computer Vision, Cloud Architectures
 - ⚡ **Fun Fact:** *I debug neural networks by day and optimize render trees by night! ☕*
 
 </div>
@@ -140,7 +140,7 @@ I love architecting end-to-end intelligent systems — from training real-time C
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<!-- </> Languages, Tools and Technologies (Categorized Skill Icons Table) -->
+<!-- </> Languages, Tools and Technologies (Sk Ahidulla's Real Tech Stack Table) -->
 <div align="center">
   <h2>&lt;/&gt; Languages, Tools and Technologies</h2>
 
@@ -149,7 +149,15 @@ I love architecting end-to-end intelligent systems — from training real-time C
       <td align="left"><b>Programming Languages</b></td>
       <td align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=c,cpp,java,py" alt="Programming Languages" />
+          <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,php,bash" alt="Programming Languages" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>AI, ML &amp; Computer Vision</b></td>
+      <td align="left">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,bots" alt="AI & ML" />
         </a>
       </td>
     </tr>
@@ -157,39 +165,39 @@ I love architecting end-to-end intelligent systems — from training real-time C
       <td align="left"><b>Frontend Development</b></td>
       <td align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,vite" alt="Frontend Development" />
+          <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,electron,android" alt="Frontend Development" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="left"><b>Backend Development</b></td>
+      <td align="left"><b>Backend &amp; API Architecture</b></td>
       <td align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,fastapi,ts,nextjs,react,rust" alt="Backend Development" />
+          <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask" alt="Backend Development" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="left"><b>DevOps &amp; Cloud</b></td>
+      <td align="left"><b>Databases &amp; Cloud Storage</b></td>
       <td align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,terraform,jenkins,gitlab" alt="DevOps" />
+          <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase" alt="Databases" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="left"><b>Used Operating Systems</b></td>
+      <td align="left"><b>DevOps &amp; Operating Systems</b></td>
       <td align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=linux,arch,kali,debian,windows" alt="Operating Systems" />
+          <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,windows" alt="DevOps & Environments" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="left"><b>Developer Tools</b></td>
+      <td align="left"><b>Developer Tools &amp; IDEs</b></td>
       <td align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Developer Tools" />
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman" alt="Developer Tools" />
         </a>
       </td>
     </tr>
@@ -203,56 +211,54 @@ I love architecting end-to-end intelligent systems — from training real-time C
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<!-- 🖥️ Technical Skills: Shields.io Badges & Banner -->
+<!-- 🖥️ Technical Skills: Shields.io Badges tailored for Sk Ahidulla -->
 <div align="center">
   <h2>🖥️ Technical Skills:</h2>
 
   <table align="center" width="100%">
     <tr>
       <td width="50%" align="left" valign="top">
-        <h3>🧕 Programming languages</h3>
+        <h3>👨🏻‍💻 Programming Languages</h3>
         <p>
-          <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-          <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processing&logoColor=white" alt="Processing" />
-          <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-          <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-          <img src="https://img.shields.io/badge/SVG%2BXML-FFB13B?style=for-the-badge&logo=svg&logoColor=white" alt="SVG+XML" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+          <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+          <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+          <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
         </p>
       </td>
       <td width="50%" align="left" valign="top">
-        <h3>🚀 Some of the Tools I Use</h3>
+        <h3>🚀 Frameworks, AI/ML &amp; Tools</h3>
         <p>
-          <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt" />
-          <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
+          <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=target&logoColor=00F5FF" alt="YOLOv8" />
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+          <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-          <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
-          <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-          <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
           <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-          <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0" />
-          <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" />
-          <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+          <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
         </p>
       </td>
     </tr>
   </table>
-
-  <br />
-
-  <!-- Technical Circuit Banner -->
-  <p align="center">
-    <img width="100%" src="skills-banner.svg" alt="Technical Skills Banner" />
-  </p>
 </div>
 
 <br />
@@ -262,13 +268,13 @@ I love architecting end-to-end intelligent systems — from training real-time C
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<!-- 🛠️ Tech Stack & Weapons of Choice (Single-Row Grid) -->
+<!-- 🛠️ Weapons of Choice (Single-Row Grid customized for Sk Ahidulla) -->
 <div align="center">
   <h2>🛠️ Weapons of Choice</h2>
   <p>Everyday AI/ML, Full Stack frameworks &amp; developer toolings:</p>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nextjs,react,ts,js,tailwind,nodejs,postgres,mongodb,firebase,docker,git,github,linux,c,cpp,postman,figma&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,nextjs,react,ts,js,tailwind,nodejs,postgres,mongodb,firebase,docker,git,github,linux,java,c&perline=10" alt="Tech Stack Icons" />
   </a>
 </div>
 
@@ -279,7 +285,7 @@ I love architecting end-to-end intelligent systems — from training real-time C
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </p>
 
-<!-- 🔮 GitHub Stats & Analytics (Full Dashboard) -->
+<!-- 🔮 GitHub Stats & Analytics (Full Dashboard for Nabab-Hub) -->
 <div align="center">
   <h2>🔮 GitHub Stats</h2>
 
