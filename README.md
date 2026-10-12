@@ -305,12 +305,7 @@ I love architecting end-to-end intelligent systems — from training real-time C
 
   <br />
 
-  <!-- Contributions Mountain Activity Graph -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph-alpha.vercel.app/graph?username=Nabab-Hub&theme=react-dark&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF007A&area=true&hide_border=false&border_color=00F5FF" width="98%" alt="Activity Graph" />
-  </p>
 
-  <br />
 
   <!-- 4 Summary Donut & Metric Cards (2x2 Grid) -->
   <p align="center">
