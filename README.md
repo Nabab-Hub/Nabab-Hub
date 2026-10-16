@@ -289,9 +289,9 @@ I love architecting end-to-end intelligent systems — from training real-time C
 <div align="center">
   <h2>🔮 GitHub Stats</h2>
 
-  <!-- Most Used Languages Bar Card -->
+  <!-- Most Used Languages Bar Card (Compact & Optimized) -->
   <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nabab-Hub&theme=radical&hide_border=false&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=E2E8F0" width="75%" alt="Most Used Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nabab-Hub&theme=radical&layout=compact&hide_border=false&border_color=00F5FF&bg_color=0D1117&title_color=00F5FF&text_color=E2E8F0" width="420" alt="Most Used Languages" />
   </p>
 
   <br />
