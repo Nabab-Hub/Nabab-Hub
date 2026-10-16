@@ -305,7 +305,12 @@ I love architecting end-to-end intelligent systems — from training real-time C
 
   <br />
 
+  <!-- Profile Activity Graph Card (Profile Details) -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nabab-Hub&theme=github_dark" width="98%" alt="Profile Details Activity Graph" />
+  </p>
 
+  <br />
 
   <!-- 4 Summary Donut & Metric Cards (2x2 Grid) -->
   <p align="center">
